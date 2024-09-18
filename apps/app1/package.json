@@ -1,0 +1,6 @@
+{
+    "name": "app1",
+    "scripts": {
+        "dev": "modern dev"
+    }
+}
